@@ -1,23 +1,20 @@
-body {
-
-    background-color:#bbbbbb;
-}
-
-h3 {
-  color: #801336;
+h1 {
+  color: red;
+  font-size: 100px;
 }
 
 
-hr {
-border-style:none;
-border-top-style: dotted;
-border-color: #949cdf;
-border-width: 5px;
-width: 5%;
+
+img:hover{
+  background-color: darkgrey;
+}
 
 
 
+.pizza{
+  background-color: lightgreen;
+}
 
-kk
-
+.chicken{
+  background-color: darkred;
 }
